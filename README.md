@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like even things
 
 ![Laurent's github stats](https://github-readme-stats.vercel.app/api?username=laurentmor&count_private=true)
+![Laurent's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentmor)
