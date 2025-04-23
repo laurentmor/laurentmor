@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter @laurentmor
 - 😄 Pronouns: He/him/Larry
 - ⚡ Fun fact: I like even things
- 
-
-![Laurent's github stats](https://github-readme-stats.vercel.app/api?username=laurentmor&count_private=true)
-![Laurent's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentmor&compact=true)
+##Stats
 image:https://github.com/laurentmor/laurentmor/blob/main/github-metrics.svg[Metrics]
