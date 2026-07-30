@@ -83,8 +83,6 @@ He/him · Geek · Part-time rights advocate · Strong opinions on mandatory meet
 
 ## 📊 GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=laurentmor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentmor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=laurentmor&theme=tokyonight&hide_border=true)
 
