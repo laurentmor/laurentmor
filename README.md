@@ -35,22 +35,27 @@ He/him · Geek · Part-time rights advocate · Strong opinions on mandatory meet
 ## 🔧 Currently building
 
 - **[create-fastify-enterprise](https://github.com/laurentmor/create-fastify-enterprise)** —
-  a scaffolding CLI for enterprise-grade Fastify + TypeBox + MongoDB/Mongoose
-  services: CI/CD, OpenAPI, Vault-ready config, and SPDX/REUSE license
-  compliance out of the box. The "I was tired of setting this up by hand"
-  project.
+a scaffolding CLI for enterprise-grade Fastify + TypeBox + MongoDB/Mongoose
+services: CI/CD, OpenAPI, Vault-ready config, and SPDX/REUSE license
+compliance out of the box. The "I was tired of setting this up by hand"
+project.
 - **[CGI-tools](https://github.com/laurentmor/CGI-tools)** — a monorepo of
-  Python dev utilities for SQL/XML transformation pipelines, with automated
-  releases (Release Please), multi-version CI (Python 3.10–3.12), Codecov
-  coverage tracking, and REUSE/SPDX compliance.
+Python dev utilities for SQL/XML transformation pipelines, with automated
+releases (Release Please), multi-version CI (Python 3.10–3.12), Codecov
+coverage tracking, and REUSE/SPDX compliance.
 
 ## 🔭 Currently exploring
 
 - **Entity auditing in Spring Boot** — a small Hibernate Envers demo:
-  `@Audited` CRUD entity, a custom `RevisionListener` that stamps *who*
-  changed *what* onto every revision (tied into Spring Security login), an
-  Actuator dashboard, and Swagger docs. Digging into how much "who did this
-  and when" you get essentially for free once Envers is wired in correctly.
+`@Audited` CRUD entity, a custom `RevisionListener` that stamps *who* changed *what* onto every revision (tied into Spring Security login), an
+Actuator dashboard, and Swagger docs. Digging into how much "who did this
+and when" you get essentially for free once Envers is wired in correctly.
+- **[tradeform-service](https://github.com/laurentmor/tradeform-service)** —
+a self-directed, quest-based learning journey through enterprise Spring
+Boot: a fictional trade-form API that starts as a bare REST endpoint and
+levels up quest by quest into a full production-style service (JPA/Postgres,
+validation, resilience, messaging, security, CI/CD). Currently on Level 1 —
+The REST Awakening.
 
 ---
 
@@ -83,22 +88,21 @@ He/him · Geek · Part-time rights advocate · Strong opinions on mandatory meet
 
 ## 📊 GitHub stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=laurentmor&theme=tokyonight&hide_border=true)](https://github.com/laurentmor)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=laurentmor&theme=tokyonight&hide_border=true)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=laurentmor&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/laurentmor)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=laurentmor&theme=tokyonight&no-frame=true&row=1&column=6)
-
-**🏆 Achievements:** [Arctic Code Vault Contributor](https://github.com/laurentmor?achievement=arctic-code-vault-contributor&tab=achievements) ·
-[Pull Shark ×2](https://github.com/laurentmor?achievement=pull-shark&tab=achievements)
+**🏆 Achievements:** [Arctic Code Vault Contributor](https://github.com/laurentmor?achievement=arctic-code-vault-contributor&tab=achievements) · [Pull Shark ×2](https://github.com/laurentmor?achievement=pull-shark&tab=achievements)
 
 ---
 
 ## 📌 Featured projects
 
 | Project | Description | Stack |
-|---|---|---|
+| --- | --- | --- |
 | [create-fastify-enterprise](https://github.com/laurentmor/create-fastify-enterprise) | Scaffolds enterprise Fastify services with CI/CD, OpenAPI, Vault config, SPDX compliance | TypeScript · Fastify · MongoDB |
 | [CGI-tools](https://github.com/laurentmor/CGI-tools) | Python utilities for XML/SQL data extraction with CI, coverage, and automated releases | Python · pytest · GitHub Actions |
+| [tradeform-service](https://github.com/laurentmor/tradeform-service) | Quest-based Spring Boot learning project: a fictional trade-form API evolving from a bare REST endpoint toward a production-grade enterprise service | Java · Spring Boot · Maven |
 | [envers-demo](https://github.com/laurentmor/envers-demo) | Spring Boot CRUD app demonstrating Hibernate Envers auditing, with per-revision user attribution | Java · Spring Boot · Hibernate |
 | [todo-board-node](https://github.com/laurentmor/todo-board-node) | Cork-board style todo app with Node.js API and MongoDB storage | Node.js · MongoDB |
 | [Site-perso](https://github.com/laurentmor/Site-perso) | Personal site project | Java |
